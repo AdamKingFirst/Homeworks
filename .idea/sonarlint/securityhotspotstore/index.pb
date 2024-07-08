@@ -412,3 +412,7 @@ w
 G.idea/sonarlint/issuestore/5/6/5638eca1288f3c9951eed1818124cbc4e2ba7f42,1\b\1b83a49541a117411d3abacc8c4514540349c829
 w
 G.idea/sonarlint/issuestore/1/2/12b81d07a1dc56e90a3f569cafb37f9bdf9b94fa,0\4\04cdc0998212c74f95cf96a04d9cf1dbffe3cd2e
+N
+src/homework01/homework01.java,d\6\d62f9969560311e2f9c59edca947cc7fb71233ff
+N
+src/homework02/homework02.java,e\d\edba0e0045969b0c9bdcb6f33f3cff163b9c7c61
